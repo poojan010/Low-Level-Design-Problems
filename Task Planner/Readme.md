@@ -4,7 +4,7 @@
 ### Terms
 
 > 1. Sprint : A sprint is a short, time boxed period when a team works to >complete a    set amount of work.
-> 2. Task : Any feature scheduled in the sprint is broken down into specific >technical tasks. These tasks are used by teams to decompose user stories or >items to a more granular level.
+> 2. Task : Any feature scheduled in the sprint is broken down into specific >technical tasks. These tasks are used by teams to decompose user stories or items to a more granular level.
 
 <br />
 
